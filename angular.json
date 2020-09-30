@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gputest2"
+    }
+  },
+  "defaultProject": "gputest2",
+  "cli": {
+    "analytics": "5c3b6c83-ce59-4dc0-a46c-8d9da70e7170"
+  }
 }
